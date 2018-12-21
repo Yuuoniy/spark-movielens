@@ -28,5 +28,5 @@ python: 3.6
 将数据集上传到 `HDFS` 中，同时确保输出文件的目录不存在，否则会报错
 运行 `spark-submit` 命令，提交 `jar` 包
 
-##数据来源：
+## 数据来源
 http://grouplens.org/datasets/movielens/1m/ 
